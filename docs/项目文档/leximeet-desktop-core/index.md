@@ -1,5 +1,7 @@
 # LexiMeet Desktop Core
 
+[GitHub 仓库](https://github.com/leximeet/leximeet-desktop-core) · [Gitee 仓库](https://gitee.com/leximeet/leximeet-desktop-core)
+
 Core 是 Java 21 实现的本机数据与业务核心。桌面界面和连接插件通过服务调用读写资料，界面不直接操作数据库，也不自行决定练习记分。
 
 ## 核心职责

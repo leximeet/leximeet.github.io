@@ -1,5 +1,7 @@
 # LexiMeet IDEA（预留）
 
+[GitHub 仓库](https://github.com/leximeet/leximeet-idea) · [Gitee 仓库](https://gitee.com/leximeet/leximeet-idea)
+
 IDEA 仓库当前是插件工程模板与后续接入预留。尚未提供可验收的词遇阅读、采集和桌面连接业务，不应把模板的构建配置、Marketplace 占位符或示例界面当作已发布功能。
 
 ## 后续接入方向

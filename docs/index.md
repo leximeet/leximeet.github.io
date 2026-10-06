@@ -32,3 +32,5 @@ features:
 - [采集与隐私](使用文档/采集与隐私.md)
 - [插件连接](使用文档/插件连接.md)
 - [版本与路线](产品文档/版本与路线.md)
+
+[GitHub](https://github.com/leximeet) · [Gitee](https://gitee.com/leximeet)

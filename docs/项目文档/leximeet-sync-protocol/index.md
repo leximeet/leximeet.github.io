@@ -1,5 +1,7 @@
 # LexiMeet Sync Protocol（LMSP）
 
+[GitHub 仓库](https://github.com/leximeet/leximeet-sync-protocol) · [Gitee 仓库](https://gitee.com/leximeet/leximeet-sync-protocol)
+
 LMSP 是未来设备与云端交换个人资料的协议规划。当前仓库目标版本为 1.0.0，规范仍是 RC 阶段；桌面与浏览器 1.0.0 的本地连接不依赖云同步上线。
 
 ## 与 LMCP 的区别

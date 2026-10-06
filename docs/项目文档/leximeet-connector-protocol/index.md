@@ -1,5 +1,7 @@
 # LexiMeet Connector Protocol（LMCP）
 
+[GitHub 仓库](https://github.com/leximeet/leximeet-connector-protocol) · [Gitee 仓库](https://gitee.com/leximeet/leximeet-connector-protocol)
+
 LMCP 约束插件与本机桌面端之间的业务接口、权限和连接流程。仓库是协议规范、Schema、示例与一致性测试的来源；它本身不是桌面运行时，也不是浏览器扩展。
 
 ## 1.0.0 定义的边界

@@ -1,5 +1,7 @@
 # LexiMeet Dictionary
 
+[GitHub 仓库](https://github.com/leximeet/leximeet-dictionary) · [Gitee 仓库](https://gitee.com/leximeet/leximeet-dictionary)
+
 词典仓库构建带版本、校验值和来源信息的公共资源包。词典不保存用户的学习进度、笔记或遇见记录。
 
 ## 当前资源

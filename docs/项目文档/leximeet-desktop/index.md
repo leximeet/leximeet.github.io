@@ -1,5 +1,7 @@
 # LexiMeet Desktop
 
+[GitHub 仓库](https://github.com/leximeet/leximeet-desktop) · [Gitee 仓库](https://gitee.com/leximeet/leximeet-desktop)
+
 桌面端是本机学习工作区。它提供完整的学习、词库管理和采集功能，也在插件连接后提供权威数据服务。
 
 | 组成                | 职责                                                               |

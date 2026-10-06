@@ -1,5 +1,7 @@
 # 贡献指南
 
+[GitHub](https://github.com/leximeet/leximeet.github.io) 与 [Gitee](https://gitee.com/leximeet/leximeet.github.io) 接受同样的文档贡献。先搜索两边已有 Issue / Pull Request，同一问题选择一处跟进，必要时互贴链接。
+
 文章只写入根 `docs/`，前端配置只写入 `website/.vitepress/`。不要修改生成的 `website/docs` 软链接、缓存或构建产物。
 
 1. 依据当前实现或各仓库规范修订文章，把已实现能力与计划分开表述。

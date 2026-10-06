@@ -1,5 +1,7 @@
 # LexiMeet Browser
 
+[GitHub 仓库](https://github.com/leximeet/leximeet-browser) · [Gitee 仓库](https://gitee.com/leximeet/leximeet-browser)
+
 浏览器插件把网页上的单词与语境带入词遇。它支持独立本机使用，也可以连接桌面端成为网页阅读与采集入口。
 
 ## 两种运行方式

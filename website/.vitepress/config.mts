@@ -76,6 +76,13 @@ export default defineConfig({
       { text: '开发', link: development[0].link, activeMatch: '/开发文档/' },
       { text: '设计', link: design[0].link, activeMatch: '/设计文档/' },
       { text: '项目', items: projects, activeMatch: '/项目文档/' },
+      {
+        text: '开源',
+        items: [
+          { text: 'GitHub', link: 'https://github.com/leximeet' },
+          { text: 'Gitee', link: 'https://gitee.com/leximeet' },
+        ],
+      },
     ],
     sidebar: [
       { text: '了解词遇', items: product },
@@ -86,11 +93,6 @@ export default defineConfig({
     ],
     outline: { level: [2, 3], label: '本页目录' },
     docFooter: { prev: '上一页', next: '下一页' },
-    editLink: {
-      pattern: 'https://github.com/leximeet/leximeet.github.io/edit/main/docs/:path',
-      text: '在 GitHub 上编辑此页',
-    },
-    socialLinks: [{ icon: 'github', link: 'https://github.com/leximeet' }],
     search: {
       provider: 'local',
       options: {
