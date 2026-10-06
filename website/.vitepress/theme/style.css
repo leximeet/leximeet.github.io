@@ -1,0 +1,84 @@
+:root {
+  --vp-font-family-base: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --vp-c-brand-1: #087f71;
+  --vp-c-brand-2: #0a947f;
+  --vp-c-brand-3: #087f71;
+  --vp-c-brand-soft: rgba(8, 127, 113, 0.1);
+  --vp-home-hero-name-color: #087f71;
+}
+
+.dark {
+  --vp-c-brand-1: #7bd5bf;
+  --vp-c-brand-2: #a1e4d4;
+  --vp-c-brand-3: #087f71;
+  --vp-c-brand-soft: rgba(123, 213, 191, 0.1);
+  --vp-home-hero-name-color: #7bd5bf;
+}
+
+.VPNavBarTitle .logo {
+  height: 34px;
+}
+
+/* 首页收紧首屏空间；正文页仍保持默认主题的阅读排版。 */
+.VPHome .VPHomeHero {
+  padding-top: calc(var(--vp-nav-height) + var(--vp-layout-top-height, 0px) + 48px);
+  padding-bottom: 40px;
+}
+
+.VPHome .vp-doc h2 {
+  margin-top: 40px;
+  font-size: 20px;
+}
+
+.VPHome .vp-doc ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 28px;
+  margin: 20px 0 40px;
+  padding: 0;
+  list-style: none;
+}
+
+.VPHome .vp-doc li + li {
+  margin: 0;
+}
+
+.vp-doc .mermaid {
+  overflow-x: auto;
+  margin: 24px 0;
+  padding: 24px 16px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+  text-align: center;
+}
+
+.vp-doc .mermaid svg {
+  max-width: none;
+  height: auto;
+}
+
+.diagram-error {
+  margin: 0;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc img {
+  border-radius: 10px;
+}
+
+.doc-screenshot {
+  cursor: zoom-in;
+}
+.doc-screenshot:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+  }
+}

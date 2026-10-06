@@ -1,0 +1,336 @@
+{
+  "format": "leximeet.documentation-screenshots/1",
+  "capturedAt": "2026-10-05",
+  "readingImageMethod": "同次真实无头会话的正文与原生 SIDE_PANEL 原图并排展示，不含浏览器工具栏。",
+  "scope": "历史源码的独立和连接定向演示、隐藏桌面笔记操作；保留原capture事实，不作为压缩后1.0.0结果提交、最终生产包或跨平台验收。",
+  "browserSourceManifest": "https://github.com/leximeet/leximeet-browser/blob/1.0.0/docs/assets/usage-sources.json",
+  "desktopSourceManifest": "https://github.com/leximeet/leximeet-desktop/blob/1.0.0/docs/images/usage/sources.json",
+  "files": [
+    {
+      "file": "browser-capture-settings.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-capture-settings.png",
+      "bytes": 81942,
+      "sha256": "a48707f2e57afff5c6422bdfaa4ed5527fca0d967e6c04950aa56f90401a3341",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "file": "browser-capture-workspace.json",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-capture-workspace.json",
+      "bytes": 454,
+      "sha256": "281b4fadac35a997f9e5c928c8bfba6349021c899fdc2e9f30b1a708a011dedd"
+    },
+    {
+      "file": "browser-capture-workspace.page.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-capture-workspace.page.png",
+      "bytes": 49646,
+      "sha256": "64770b892e566978899d96e900355fb43183d019317f13f3b81bddd04f9a9016",
+      "width": 894,
+      "height": 805
+    },
+    {
+      "file": "browser-capture-workspace.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-capture-workspace.png",
+      "bytes": 89689,
+      "sha256": "b544f2a0f4f033de63c4389246e2cf7265226142f67aaacb296d3dcd963d2487",
+      "width": 1254,
+      "height": 805
+    },
+    {
+      "file": "browser-capture-workspace.sidepanel.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-capture-workspace.sidepanel.png",
+      "bytes": 38516,
+      "sha256": "9635cb76269eca3ddf70988895f49b9ef1a4dfd92a7fe7534ac7a4d02fd25ac9",
+      "width": 360,
+      "height": 765
+    },
+    {
+      "file": "browser-connected-settings.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-connected-settings.png",
+      "bytes": 97747,
+      "sha256": "95058c6921642938eed43ca1dea9428b46096c31646d9440fbf7b0efa2949969",
+      "width": 1321,
+      "height": 896
+    },
+    {
+      "file": "browser-connected-workspace.json",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-connected-workspace.json",
+      "bytes": 455,
+      "sha256": "8b76029ad4f2271038fb5a803fc1b68a565861f468eb0578428a4a16feb7f0d1"
+    },
+    {
+      "file": "browser-connected-workspace.page.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-connected-workspace.page.png",
+      "bytes": 55450,
+      "sha256": "4c5fa8393d3d3dd34928e0a86bb1b49c1049f9172d85a57d95ffe59d40edc86d",
+      "width": 1079,
+      "height": 906
+    },
+    {
+      "file": "browser-connected-workspace.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-connected-workspace.png",
+      "bytes": 99273,
+      "sha256": "58a71166704498f6aa9209953cb257e2b6a89cd63c35b110486492aa89d8c6e5",
+      "width": 1439,
+      "height": 906
+    },
+    {
+      "file": "browser-connected-workspace.sidepanel.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-connected-workspace.sidepanel.png",
+      "bytes": 41489,
+      "sha256": "830fbb1c00c26a5246642694ed8b06a0521d3f83382838a13a80b07f70b8f72a",
+      "width": 360,
+      "height": 865
+    },
+    {
+      "file": "browser-copy-light.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-copy-light.png",
+      "bytes": 79712,
+      "sha256": "4c404c431ac051466617e864688cf22ca44a706e927047debd4608978cd2fb0f",
+      "width": 1280,
+      "height": 813
+    },
+    {
+      "file": "browser-library-bulk.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-library-bulk.png",
+      "bytes": 122818,
+      "sha256": "cc1cc7421858c82e28d6a4bb18d96de211fb756c4b9ad5ec676d2065284f1927",
+      "width": 1280,
+      "height": 813
+    },
+    {
+      "file": "browser-listening-hint.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-listening-hint.png",
+      "bytes": 74325,
+      "sha256": "d29613b2380f80c0bb9e685cad89093497859ce943179edafc48027146ec7212",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "file": "browser-personal-note.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-personal-note.png",
+      "bytes": 138091,
+      "sha256": "390bfcf6a8ab37c3b6720667447424f0eebd3500b46a8d2372ecb50e514b4db0",
+      "width": 1280,
+      "height": 813
+    },
+    {
+      "file": "browser-plan.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-plan.png",
+      "bytes": 104110,
+      "sha256": "cab69e377cf1216b484810d8694c20479e6ce923623a6eca39d2bf050774d324",
+      "width": 1280,
+      "height": 813
+    },
+    {
+      "file": "browser-practice-list.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-practice-list.png",
+      "bytes": 116670,
+      "sha256": "c17e80c4d28404b6376723b5aa5f0270bedbf9c467e22287a5f3af4215780f4c",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "file": "browser-reading-workspace-dark.json",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-reading-workspace-dark.json",
+      "bytes": 454,
+      "sha256": "e9ac53f679c1ba8f8c693e618119a49c4b6103b75d3bed1b9b117ddabf94a0ea"
+    },
+    {
+      "file": "browser-reading-workspace-dark.page.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-reading-workspace-dark.page.png",
+      "bytes": 51139,
+      "sha256": "97f50e02f2c2da2bb99d1d9390932ddc5554a0205e598e00788ef08bfd447eb9",
+      "width": 894,
+      "height": 805
+    },
+    {
+      "file": "browser-reading-workspace-dark.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-reading-workspace-dark.png",
+      "bytes": 88102,
+      "sha256": "f5ea7cc3f29ede142af209e540ea999a7a27f6fef7fe0cd8557d05a5e4b9de6e",
+      "width": 1254,
+      "height": 805
+    },
+    {
+      "file": "browser-reading-workspace-dark.sidepanel.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-reading-workspace-dark.sidepanel.png",
+      "bytes": 35901,
+      "sha256": "1cbee3f14e36bfbbc620902599081b7719e09e29ef0577d8440aff2bc7760954",
+      "width": 360,
+      "height": 765
+    },
+    {
+      "file": "browser-reading-workspace-light.json",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-reading-workspace-light.json",
+      "bytes": 454,
+      "sha256": "1c4323b814fdec8d45e20463c7ccfd36e9ee5bcc4fa545a0cf4a8b3a497c3354"
+    },
+    {
+      "file": "browser-reading-workspace-light.page.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-reading-workspace-light.page.png",
+      "bytes": 51006,
+      "sha256": "5dec74c667b8e9852019bd5ebf1bc202b2548faae483014d9c84a8244d09e71d",
+      "width": 894,
+      "height": 805
+    },
+    {
+      "file": "browser-reading-workspace-light.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-reading-workspace-light.png",
+      "bytes": 87697,
+      "sha256": "9d738b60b1015a659e58bea7c951420e9320dd0fa15755eddda4b755bc9a3ec6",
+      "width": 1254,
+      "height": 805
+    },
+    {
+      "file": "browser-reading-workspace-light.sidepanel.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-reading-workspace-light.sidepanel.png",
+      "bytes": 35359,
+      "sha256": "d58079406c41bdea3eed5e4f89961fd04a58735c515ae41d1b375fa5abda02c6",
+      "width": 360,
+      "height": 765
+    },
+    {
+      "file": "browser-recycle-confirmation.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-recycle-confirmation.png",
+      "bytes": 165144,
+      "sha256": "04b00e106222302ee6ab96e86ef0c4f046918b6bca7b7bce65ba969ab9d2b913",
+      "width": 1280,
+      "height": 813
+    },
+    {
+      "file": "browser-saved-workspace.json",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-saved-workspace.json",
+      "bytes": 454,
+      "sha256": "0fdd56bf2c8fac2029d4180c03062f79ab907cfc89a6029f62eeaf9424bac6c3"
+    },
+    {
+      "file": "browser-saved-workspace.page.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-saved-workspace.page.png",
+      "bytes": 50502,
+      "sha256": "826e3bffca5cebba389ebf1f891ee40ead522786bb389d620779db2ecfc17428",
+      "width": 894,
+      "height": 805
+    },
+    {
+      "file": "browser-saved-workspace.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-saved-workspace.png",
+      "bytes": 78421,
+      "sha256": "314db78557a35d3551e475d3b41311f7da531f9fbe0b7471efa9e0d9f718852b",
+      "width": 1254,
+      "height": 805
+    },
+    {
+      "file": "browser-saved-workspace.sidepanel.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-saved-workspace.sidepanel.png",
+      "bytes": 27575,
+      "sha256": "7c26b3cd94c7b882e6a6e28f5ac2bea64b894284b4c4ba61c5d61ceed31474b2",
+      "width": 360,
+      "height": 765
+    },
+    {
+      "file": "desktop-choice-feedback.png",
+      "repository": "leximeet-desktop",
+      "sourcePath": "docs/images/usage/choice-feedback.png",
+      "bytes": 125589,
+      "sha256": "741c41a2b4e6e7144ac1e57dd1466208c5dfbcfa920779f79720433363a4ad4b",
+      "width": 1321,
+      "height": 896
+    },
+    {
+      "file": "desktop-connected-encounters.png",
+      "repository": "leximeet-browser",
+      "sourcePath": "docs/assets/usage-connected-desktop-encounters.png",
+      "bytes": 81029,
+      "sha256": "fdcc6349733852860c31808b1d02dd8d4077a9423f931198a2976424fc9a85ea",
+      "width": 1321,
+      "height": 896
+    },
+    {
+      "file": "desktop-manual-capture.png",
+      "repository": "leximeet-desktop",
+      "sourcePath": "docs/images/usage/manual-capture.png",
+      "bytes": 20927,
+      "sha256": "2075006f0c9edb2031de3acf7b3598e2506fb8c55fe408615386440a94696010",
+      "width": 540,
+      "height": 620,
+      "capturedAt": "2026-10-05",
+      "scope": "真实Electron独立记录窗口的note-only源码演示，隔离合成资料；不是正式安装器或系统通知验收。"
+    },
+    {
+      "file": "desktop-note-multiple-books-dark.png",
+      "repository": "leximeet-desktop",
+      "sourcePath": "docs/images/usage/note-multiple-books-dark.png",
+      "bytes": 114555,
+      "sha256": "ebf7e187488623522cc8d3dc8cd66c0838b4e59b7673b89b04183b34a51b8cc2",
+      "width": 1321,
+      "height": 1040
+    },
+    {
+      "file": "desktop-note-multiple-books.png",
+      "repository": "leximeet-desktop",
+      "sourcePath": "docs/images/usage/note-multiple-books.png",
+      "bytes": 114046,
+      "sha256": "375ffa1c6482c7f023b35ca3ae2c587e003c1ef4965f1c0b87530580588e5470",
+      "width": 1321,
+      "height": 1040
+    },
+    {
+      "file": "desktop-note-saved.png",
+      "repository": "leximeet-desktop",
+      "sourcePath": "docs/images/usage/note-saved.png",
+      "bytes": 114487,
+      "sha256": "d200d086e2b73cd5a400c59b9ab30ca5bbc7c709d66a183d42f6867f683f8eb5",
+      "width": 1321,
+      "height": 1040
+    },
+    {
+      "file": "desktop-planning-target.png",
+      "repository": "leximeet-desktop",
+      "sourcePath": "docs/images/usage/planning-target.png",
+      "bytes": 98747,
+      "sha256": "adb58b6b84c7469cb22dba8cf980eb1c33a56f37ef653ae03fdc4aede917a6c3",
+      "width": 1321,
+      "height": 864
+    },
+    {
+      "file": "desktop-trash-confirm.png",
+      "repository": "leximeet-desktop",
+      "sourcePath": "docs/images/usage/library-trash-confirm.png",
+      "bytes": 80828,
+      "sha256": "2f640c3cfcc57f3a2513390a9b8f3055040ab24f5bb7af81a08bc0c1565ae4de",
+      "width": 820,
+      "height": 728
+    }
+  ],
+  "sourceManifestScope": "对应1.0.0源码快照保存的历史演示清单；正式发布后可按该标签核对。最终发行物验证查看发行附件中的源码、构建与发布manifest。"
+}

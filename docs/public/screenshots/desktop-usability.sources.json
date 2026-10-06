@@ -1,0 +1,25 @@
+{
+  "format": 1,
+  "project": "leximeet-desktop",
+  "sourceRevision": "ef337404c48b51565a2784145e182be379445207",
+  "evidence": "历史真实 Electron / Main / Core 的隔离合成资料截图；不是系统通知截图或最终发行包证明",
+  "images": [
+    {
+      "file": "desktop-planning-forecast.png",
+      "sourcePath": "docs/images/usage/planning-forecast.png",
+      "sha256": "65e51fb58fc3b347097e54e1cf265077f317d90542f3bc1bb3004c981a8706bd"
+    },
+    {
+      "file": "desktop-library-bulk.png",
+      "sourcePath": "docs/images/usage/library-bulk.png",
+      "sha256": "cbf42605c7a125a680fdbe199757136dac9ce17da369dbb0bfe8be9729acc597"
+    },
+    {
+      "file": "desktop-listening-ghost.png",
+      "sourcePath": "docs/images/usage/listening-ghost.png",
+      "sha256": "9f1b91d8017adc027cec261f1d6938a6bd65bb00984f9650fb60f3a44ccd4bf0"
+    }
+  ],
+  "sourceRevisionScope": "历史源码演示的实际capture SHA；保留原记录，不作为压缩后1.0.0结果提交或最终生产包验收。",
+  "sourceManifest": "https://github.com/leximeet/leximeet-desktop/blob/1.0.0/docs/images/usage/sources.json"
+}

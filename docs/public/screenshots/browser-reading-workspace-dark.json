@@ -1,0 +1,19 @@
+{
+  "method": "actual-page-and-native-side-panel-composite",
+  "browserToolbarIncluded": false,
+  "nativeSidePanel": true,
+  "reading": {
+    "width": 894,
+    "height": 805,
+    "sha256": "97f50e02f2c2da2bb99d1d9390932ddc5554a0205e598e00788ef08bfd447eb9"
+  },
+  "panel": {
+    "width": 360,
+    "height": 765,
+    "sha256": "1cbee3f14e36bfbbc620902599081b7719e09e29ef0577d8440aff2bc7760954"
+  },
+  "output": {
+    "width": 1254,
+    "height": 805
+  }
+}
